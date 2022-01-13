@@ -1,0 +1,42 @@
+.margin {
+  margin: 20px;
+}
+
+.card-blue {
+  background-color: #3366cc;
+  color: #fff;
+}
+
+.pad {
+  padding: 20px;
+}
+.border-radius-none {
+  border-radius: 0px !important;
+}
+
+.fonth1 {
+  font-size: 30px;
+}
+
+.card-height {
+  min-height: 400px;
+}
+.font-black {
+  color: black !important;
+}
+
+.label-margin {
+  margin: 2px;
+}
+.edu-card {
+  min-height: 315px;
+}
+.lang-card {
+  min-height: 315px;
+}
+.justify-left {
+  justify-content: left !important;
+}
+.contact-card {
+  min-height: 315px;
+}

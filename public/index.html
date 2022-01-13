@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="description" content="react" />
+
+    <title>React App</title>
+    <link rel="stylesheet" href="index.css" />
+    <!-- preloader section -->
+    <script>
+      window.addEventListener("load", (event) => {
+        setTimeout(() => {
+          document.querySelector(".preloader").style.visibility = "hidden"; // set duration in brackets
+        }, 1000);
+      });
+    </script>
+  </head>
+  <body data-spy="scroll" data-target=".navbar-collapse">
+    <div class="preloader">
+      <div class="sk-spinner sk-spinner-wordpress">
+        <span class="sk-inner-circle"></span>
+      </div>
+    </div>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root" class="font-family-default"></div>
+  </body>
+</html>
