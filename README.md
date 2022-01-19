@@ -27,6 +27,7 @@
     "stackoverflow" : "<stackoverflowurl>",
     "blog": "<blogurl>","resume":"<resume url access by public>"
     },
+    
     "BACKGROUNDIMAGES" :[<Array of image address> ...,Image N]
 }
 ```
