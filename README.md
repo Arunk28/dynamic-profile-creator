@@ -1,4 +1,4 @@
-# PROFILE config
+# Profile config
 ```
 {
     "ABOUT": {
@@ -32,3 +32,10 @@
 
 # You can find sample config
 `https://github.com/Arunk28/dynamic-profile-creato/blob/master/src/data/profile.json`
+
+# Run
+
+ ```
+ npm install
+ npm start
+ ```
