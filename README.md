@@ -42,5 +42,5 @@
  npm start
  ```
  
- # DEMO 
+ # Demo
  https://dynamic-profile-creator.vercel.app/
