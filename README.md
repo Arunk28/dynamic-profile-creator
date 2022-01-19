@@ -1,4 +1,4 @@
-# JSON config
+# PROFILE config
 ```
 {
     "ABOUT": {
