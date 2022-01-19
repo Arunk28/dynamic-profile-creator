@@ -13,8 +13,11 @@ import "bootstrap-icons/font/bootstrap-icons.css";
 import Footer from "./Components/footer";
 
 //import config from "./data/card.json";
+const imagesRender =
+  config.BACKGROUNDIMAGES.length > 1
+    ? config.BACKGROUNDIMAGES
+    : [image2, image3, image4];
 const App = () => {
-  //const itemsRender = config.map((item) => <Card key={item.id} props={item} />);
   return (
     <React.Fragment>
       <Header avatar={config.AVATAR} intro={config.INTRO} />
@@ -51,7 +54,7 @@ const App = () => {
       <Footer props={config.SOCIAL} />
       <BackgroundSlider
         className="background-class"
-        images={[image2, image3, image4]}
+        images={imagesRender}
         duration={8}
         transition={2}
       />
