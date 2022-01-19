@@ -7,11 +7,10 @@
     "INTRO" : ["Hi, I am Arun","Full Stack Developer"],
     "SKILLS" : {"title" : "Skills", "content" : ["C#,SQL","AZURE","VUE","NODEJS","PHP","HTML","CSS","VUEX","MATERIAL DESIGN"]},
     "LOCATION" : "Bangalore, India",
-    "LANGUAGE": {"title" : "Language", "content" : ["English", "Tamil","Malayalam"]},
-    "PROFILE":"https://manikandanganesan.netlify.app/cv.html",
+    "LANGUAGE": {"title" : "Language", "content" : ["English", "Tamil","Malayalam"]},    
     "EDUCATION" : {"title":"Education", "content" : ["FY 2008-12 - B.E in Computer Science and Engineering, Anna University, Chennai, India","FY 2008 - Completed XII in RamaKrishna matric higher secondary school with 75%","FY 2006 - Completed X in ABC higher secondary school with 75%"]} ,   
     "EXPEREINCE" : {"title" : "Experience", "content" : ["7+ years of experience in developing high quality web application products with PHP and NodeJS frameworks","6+ years of experience in designing and developing the AWS cloud architecture and infrastructure design and maintenance","2+ years of Full-stack experience in designing and developing UI components with HTML, CSS, Vue, Vuex, Material Design"]},
     "CONTACT" :{"title":"Contact","content" :[{"icon":"bi bi-geo-alt","text":"Ruby Valley Phase 2,Chennai" },{"icon":"bi bi-phone-fill","text":"8939990011" },{"icon":"bi bi-envelope-fill","text":"arunkumar280491@gmail.com" },{"icon":"bi bi-github","text":"https://github.com/Arunk28" }]},
     "SOCIAL" :{"github" : "https://github.com/Arunk28", "linkedin" : "https://www.linkedin.com/in/itsarun/",  "stackoverflow" : "https://stackoverflow.com/users/1699407/arun","blog": "https://technoblazze.blogspot.com/","resume":"https://docs.google.com/document/d/1BYQdJ5a7bWoYH8SV9DX-wddjj4QvKsL8QpO0W56E09o/edit"},
-    "BACKGROUNDIMAGES":["https://images.pexels.com/photos/1563356/pexels-photo-1563356.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260","https://images.pexels.com/photos/327509/pexels-photo-327509.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260","https://images.pexels.com/photos/36487/above-adventure-aerial-air.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"]
+    "BACKGROUNDIMAGES":["https://images.pexels.com/photos/3473569/pexels-photo-3473569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260","https://images.pexels.com/photos/1563356/pexels-photo-1563356.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260","https://images.pexels.com/photos/327509/pexels-photo-327509.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260","https://images.pexels.com/photos/36487/above-adventure-aerial-air.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"]
 }
