@@ -1,5 +1,7 @@
 # Describe
-Based on the json input the beautiful profile will be created 
+Based on the json input the beautiful profile will be created
+
+![alt dynamic profile creator](https://github.com/Arunk28/dynamic-profile-creator/blob/main/profile.png?raw=true)
 
 # Profile config
 ```
