@@ -3,7 +3,7 @@
         "title": "About",
         "content": ["I'm expertise in building, deploying and maintaining highly scalable web applications using cloud platforms like AWS.","7+ years of experience in developing high quality web application products with PHP and NodeJS frameworks","6+ years of experience in designing and developing the AWS cloud architecture and infrastructure design and maintenance.","2+ years of Full-stack experience in designing and developing UI components with HTML, CSS, Vue, Vuex, Material Design."]
     },
-    "AVATAR" : "https://media-exp1.licdn.com/dms/image/C5103AQFaxb1utQ5DoA/profile-displayphoto-shrink_800_800/0/1517043630288?e=1647475200&v=beta&t=Hk_jQ9kvrq3l30W84lILoWOCChpR258fbkn45G64qz0",
+    "AVATAR" : "https://avatars.githubusercontent.com/u/7352047?v=4",
     "INTRO" : ["Hi, I am Arun","Full Stack Developer"],
     "SKILLS" : {"title" : "Skills", "content" : ["C#,SQL","AZURE","VUE","NODEJS","PHP","HTML","CSS","VUEX","MATERIAL DESIGN"]},
     "LOCATION" : "Bangalore, India",
